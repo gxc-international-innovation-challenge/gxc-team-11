@@ -25,7 +25,7 @@ We divided our work in two Sprints, where we created the first generation of the
 With this first version we had something that we could share with the companies and others to get [feedback](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Prototype-Testing).
 New ideas and the overall feedback we used in [Sprint2](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Sprint-2) to improve our prototype and implement some new features.
 
-[Prototype](https://m-visual.glideapp.io/)
+[Link to Prototype](https://m-visual.glideapp.io/)
 ![1](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/first.PNG)
 ![2](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/second.PNG)
 ![3](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/third.PNG)
