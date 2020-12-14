@@ -29,3 +29,5 @@ New ideas and the overall feedback we used in [Sprint2](https://github.com/gxc-i
 Our digital solution is a carbon footprint calculator platform. The user answer questions about their business which provides data for an annual emissions estimates. Based on the data, the user is given personalized recommendations to save CO2 emissions in different areas. There is also a visualized overview, where the user can see the highest saving potentials at the first look.Our solution also provides a communication and exchange platform, where users can share ideas with other companies that are also participating.
 
 Here you can find our [Digital Prototype](https://m-visual.glideapp.io/)
+
+Here you can find our [Github Page](https://gxc-international-innovation-challenge.github.io/gxc-team-11/)
