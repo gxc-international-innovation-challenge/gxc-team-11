@@ -18,7 +18,6 @@ For that we created an [Empathy Map](https://github.com/gxc-international-innova
 With a [Brainstorming Session](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Innovation-Ideas) we collected all different ideas we had, to create then an user experience [Storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Storyboard), a [Press Release](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Press-Release) and a document with frequently asked questions ([FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/FAQs)).
 These steps were the foundation to start with developing of our first prototype. 
 
-
 # Developing
 
 We divided our work in two Sprints, where we created the first generation of the prototype within [Sprint1](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Sprint-1). 
