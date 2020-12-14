@@ -1,6 +1,6 @@
 # The Challenge
 
-<p>On October 1, we participated in a virtual Innovation Challenge through the University of Applied Sciences Munich, where we worked together with the city of Munich on a digital solution for sustainable coexistence.</p>
+<p>On October 1, we began participating in a virtual Innovation Challenge through the University of Applied Sciences Munich, where we worked together with the City of Munich Department of Labor & Economic Development on a digital solution for sustainable coexistence.</p>
 
 *The challenge headline was:*
 
@@ -21,13 +21,12 @@ These steps were the foundation to start with developing of our first prototype.
 
 # Developing
 
-We devided our work in two Sprints, where we created the first generation of the prototype within [Sprint1](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Sprint-1). 
+We divided our work in two Sprints, where we created the first generation of the prototype within [Sprint1](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Sprint-1). 
 With this first version we had something that we could share with the companies and others to get [feedback](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Prototype-Testing).
 New ideas and the overall feedback we used in [Sprint2](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Sprint-2) to improve our prototype and implement some new features.
 
 # The Solution
 
-Our digital solution is a carbon footprint calculator, where you answer some questions about your company and get personalized recommendations to save CO2 emissions in different areas. There is also a visualized overview, where you can see the highest saving potentials at the first look.
-Our solution also provides a communication and exchange platform, where you can share your ideas with other companies that are also participating.
+Our digital solution is a carbon footprint calculator platform. The user answer questions about their business which provides data for an annual emissions estimates. Based on the data, the user is given personalized recommendations to save CO2 emissions in different areas. There is also a visualized overview, where the user can see the highest saving potentials at the first look.Our solution also provides a communication and exchange platform, where users can share ideas with other companies that are also participating.
 
 Here you can find our [Digital Prototype](https://m-visual.glideapp.io/)
