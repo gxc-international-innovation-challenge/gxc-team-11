@@ -28,6 +28,7 @@ New ideas and the overall feedback we used in [Sprint2](https://github.com/gxc-i
 Sprint 2 Prototype Visuals 
 ![1](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/first.PNG)
 ![2](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/second.PNG)
+![3](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/third.PNG)
 
 # The Solution
 
