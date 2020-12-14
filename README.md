@@ -25,11 +25,6 @@ We divided our work in two Sprints, where we created the first generation of the
 With this first version we had something that we could share with the companies and others to get [feedback](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Prototype-Testing).
 New ideas and the overall feedback we used in [Sprint2](https://github.com/gxc-international-innovation-challenge/gxc-team-11/wiki/Sprint-2) to improve our prototype and implement some new features.
 
-[Link to Prototype](https://m-visual.glideapp.io/)
-![1](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/first.PNG)
-![2](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/second.PNG)
-![3](https://github.com/gxc-international-innovation-challenge/gxc-team-11/blob/main/third.PNG)
-
 # The Solution
 
 Our digital solution is a carbon footprint calculator platform. The user answer questions about their business which provides data for an annual emissions estimates. Based on the data, the user is given personalized recommendations to save CO2 emissions in different areas. There is also a visualized overview, where the user can see the highest saving potentials at the first look.Our solution also provides a communication and exchange platform, where users can share ideas with other companies that are also participating.
