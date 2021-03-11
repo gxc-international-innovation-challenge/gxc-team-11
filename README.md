@@ -30,4 +30,4 @@ Our digital solution is a carbon footprint calculator platform. The user answer 
 
 Here you can find our [Digital Prototype](https://m-visual.glideapp.io/)
 
-Here you can find our [Github Page](https://gxc-international-innovation-challenge.github.io/gxc-team-11/)
+Here you can find our [Github Page](https://gxc-international-innovation-challenge.github.io/team-11/)
